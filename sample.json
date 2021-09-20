@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Fortnite Chapter 2 Season 8 Battle Pass Trailer - GameSpot",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZjFWRjBHbUlWMmfSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2021-09-13T06:11:18Z",
+      "content": null
+    },  
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Eustance Huang",
+      "title": "China will reportedly break up Ant Group's Alipay and force creation of new loans app - CNBC",
+      "description": "Beijing plans to break up Ant Group's Alipay and create a separate app for the fintech giant's loans business, the Financial Times reported Monday.",
+      "url": "https://www.cnbc.com/2021/09/13/china-to-split-ant-groups-alipay-force-creation-of-new-loans-app-ft.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106917819-1627434838534-gettyimages-1230691179-CHINA_ANT_GROUP.jpeg?v=1631501646",
+      "publishedAt": "2021-09-13T05:43:06Z",
+      "content": "Beijing plans to break up Ant Group's Alipay and create a separate app for the fintech giant's loans business, according to a Financial Times report on Monday.\r\nRegulators previously ordered Ant to s… [+1370 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Julius Young",
+      "title": "Madonna's MTV VMAs show opening ensemble goes viral during surprise appearance - Fox News",
+      "description": "Fans of Madonna might recall her antics way back in 1984 during the inaugural VMAs when she took the stage to perform “Like a Virgin” rocking a wedding dress.",
+      "url": "https://www.foxnews.com/entertainment/madonna-trends-twitter-risque-show-opening",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Madonna-mtv-vmas-2021_coat.jpg",
+      "publishedAt": "2021-09-13T04:49:17Z",
+      "content": "Madonna's surprise appearance and her ensemble at the 2021 MTV VMAs had Twitter in a frenzy Sunday evening. \r\nThe \"Material Girl\" hit the stage in her full Madonna glory when she opened up a beige tr… [+2049 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Emily Cochrane",
+      "title": "House Democrats Outline Tax Increases for Wealthy Businesses and Individuals - The New York Times",
+      "description": "The draft proposal includes raising the corporate tax rate to 26.5 percent for the richest businesses to help pay for President Biden’s sweeping expansion of the social safety net.",
+      "url": "https://www.nytimes.com/2021/09/12/us/politics/house-democrats-taxes.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/09/12/us/politics/12dc-budget3/12dc-budget3-facebookJumbo.jpg",
+      "publishedAt": "2021-09-13T04:13:00Z",
+      "content": "It also increases the top tax rate for capital gains the proceeds from selling an asset like a boat or stocks to 25 percent from 20 percent. Mr. Biden had proposed essentially doubling that tax rate.… [+2122 chars]"
+    },
+    {
+      "source": { "id": null, "name": "KPRC Click2Houston" },
+      "author": "KPRC 2 Staff",
+      "title": "LIST: The Houston-area school districts closed Monday due to Tropical Storm Nicholas - KPRC Click2Houston",
+      "description": "Some Houston-area schools districts have canceled Monday classes due to the threat of severe weather posed by approaching Tropical Storm Nicholas.",
+      "url": "https://www.click2houston.com/news/local/2021/09/13/list-the-houston-are-school-districts-closed-monday-due-to-tropical-storm-nicholas/",
+      "urlToImage": "https://www.click2houston.com/resizer/Kj83Sj_OzH7k2duMuF29Opdgz_o=/800x533/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/MSYXFXUZJBFZ5C3CNGRWSEGY2I.jpg",
+      "publishedAt": "2021-09-13T03:45:00Z",
+      "content": "Some Houston-area schools districts have canceled Monday classes due to the threat of severe weather posed by approaching Tropical Storm Nicholas.\r\nNicholas is forecast to approach the central Texas … [+6016 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Weizhen Tan",
+      "title": "China's zero-Covid stance could worsen debt problems for companies - CNBC",
+      "description": "China's zero-Covid stance could worsen the debt situation for the country's companies, some of which are already in financial distress, says S&P Global Ratings.",
+      "url": "https://www.cnbc.com/2021/09/13/chinas-zero-covid-stance-could-worsen-debt-problems-for-companies.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106907350-1625635084629-gettyimages-1233808056-AFP_9DX4UM.jpeg?v=1631498203",
+      "publishedAt": "2021-09-13T03:38:00Z",
+      "content": "People queue to undergo nucleic acid testing for the Covid-19 coronavirus in the city of Ruili which borders Myanmar, in China's southwestern Yunnan province on July 5, 2021.\r\nChina's zero-Covid appr… [+3222 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ESPN" },
+      "author": "Ohm Youngmisuk",
+      "title": "US Open 2021 - Daniil Medvedev beats Novak Djokovic at his own game to lock up first Grand Slam title - ESPN",
+      "description": "Daniil Medvedev didn't give Novak Djokovic, the \"greatest tennis player in history\" in his eyes, much room for error in the US Open final.",
+      "url": "https://www.espn.com/tennis/story/_/id/32200987/us-open-2021-daniil-medvedev-beats-novak-djokovic-own-game-lock-first-slam-title",
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0913%2Fr908382_1296x729_16%2D9.jpg",
+      "publishedAt": "2021-09-13T03:28:02Z",
+      "content": "NEW YORK -- One sleepless night during Wimbledon, Daniil Medvedev began to envision what he would do if he won the sport's most fabled tournament.\r\nThe Russian player knew if he did, he would have to… [+6520 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "",
+      "title": "NFL Week 1 grades: Bengals get an 'A-' for wild OT win over Vikings, Packers get an 'F' for embarrassing loss - CBS Sports",
+      "description": "Here are the Week 1 grades for every team that played on Sunday",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-1-grades-bengals-get-an-a-for-wild-ot-win-over-vikings-packers-get-an-f-for-embarrassing-loss/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/09/09/c4eb768b-591d-46a1-b365-4cf40e6836d4/thumbnail/1200x675/94a055287e7a1874d7f228a8212e704f/gettyimages-1234965030.jpg",
+      "publishedAt": "2021-09-13T03:25:00Z",
+      "content": "There were plenty of questions swirling about the Bengals heading into their regular-season opener on Sunday and they answered most of them during a wild 27-24 overtime victory against the Vikings. \r… [+3489 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Joel Zinberg",
+      "title": "The US is nearing immunity from COVID-19 - New York Post ",
+      "description": "The numbers of COVID-19 cases, new hospitalizations, and deaths nationwide peaked and started to decline around the beginning of September.",
+      "url": "https://nypost.com/2021/09/12/the-us-is-nearing-immunity-from-covid-19/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/09/HEALTH-CORONAVIRUS_BIDEN-OSHA.jpg?quality=90&strip=all&w=1024",
+      "publishedAt": "2021-09-13T03:19:00Z",
+      "content": "Despite media claims that We Cant Turn the Corner on COVID, the numbers of COVID-19 cases, new hospitalizations, and deaths nationwide peaked and started to decline around the beginning of September.… [+6334 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Jack Baer",
+      "title": "Matthew Stafford looks like the answer in Rams win, while Andy Dalton remains questionable choice - Yahoo Sports",
+      "description": "One game in, the Rams' bet on Matthew Stafford is looking strong.",
+      "url": "https://sports.yahoo.com/nfl-bears-rams-matthew-stafford-andy-dalton-justin-fields-nfl-031109550.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/xbOiK5LtWtN6uI3BQcNIPQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2021-09/b8e31030-143a-11ec-bfe6-15d267bfe2d1",
+      "publishedAt": "2021-09-13T03:11:00Z",
+      "content": "One game into his Los Angeles Rams career, it looks like, yes, Matthew Stafford brings much more to the table than Jared Goff.\r\nThe longtime Detroit Lions starter made a successful debut at SoFi Stad… [+2217 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Ryan Gaydos",
+      "title": "Ex-NFL QB raises eyebrows with odd Jameis Winston tweets - Fox News",
+      "description": "Former NFL star Robert Griffin III made an odd comment about Jameis Winston after the quarterback led the New Orleans Saints to a convincing win over the Green Bay Packers on Sunday.",
+      "url": "https://www.foxnews.com/sports/nfl-qb-jameis-winston-tweets",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Jameis-Winston.jpg",
+      "publishedAt": "2021-09-13T03:04:48Z",
+      "content": "Former NFL star Robert Griffin III made an odd comment about Jameis Winston after the quarterback led the New Orleans Saints to a convincing win over the Green Bay Packers on Sunday.\r\nWinston threw f… [+1895 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Jesus Jiménez",
+      "title": "Britney Spears Announces Engagement to Longtime Boyfriend Sam Asghari - The New York Times",
+      "description": "In the wake of recent developments in the battle over her conservatorship, the singer announced plans to wed for the third time.",
+      "url": "https://www.nytimes.com/2021/09/12/arts/music/britney-spears-engaged-sam-asghari.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/09/12/lens/12xp-britney-01/12xp-britney-01-facebookJumbo.jpg",
+      "publishedAt": "2021-09-13T02:58:04Z",
+      "content": "Britney Spears announced on Sunday that she was engaged to her longtime boyfriend, Sam Asghari, three months after she told a Los Angeles judge that the conservatorship that has governed her life sin… [+768 chars]"
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "PIPER HUDSPETH BLACKBURN Associated Press",
+      "title": "Barrett concerned about public perception of Supreme Court - ABC News",
+      "description": "",
+      "url": "https://abcnews.go.com/Politics/wireStory/barrett-concerned-public-perception-supreme-court-79983899",
+      "urlToImage": "https://s.abcnews.com/images/Politics/WireAP_c2952de92a80430387fbcd1d1be199df_16x9_992.jpg",
+      "publishedAt": "2021-09-13T02:25:12Z",
+      "content": "LOUISVILLE, Ky. -- Supreme Court Justice Amy Coney Barrett expressed concerns Sunday that the public may increasingly see the court as a partisan institution.\r\nJustices must be hyper vigilant to make… [+4137 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Times of Israel" },
+      "author": null,
+      "title": "TV: Israel may have to return ‘kidnapped’ boy who survived Italy cable car crash - The Times of Israel",
+      "description": "Government legal opinion says the smuggling of Eitan Biran into Israel violates law; six-year-old will likely be sent back to legal guardian if sides don't reach agreement",
+      "url": "https://www.timesofisrael.com/tv-israel-may-have-to-return-kidnapped-boy-who-survived-italy-cable-car-crash/",
+      "urlToImage": "https://static.timesofisrael.com/www/uploads/2021/05/Biran-family-1024x640.jpg",
+      "publishedAt": "2021-09-13T01:30:31Z",
+      "content": "Israel will likely return a 6-year-old Israeli boy whose family was killed in a cable car crash in Italy to his legal guardian in the European country after he was smuggled into Israel by his grandfa… [+3478 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Www.https" },
+      "author": "Jon Brown",
+      "title": "Al Qaeda leader appears in video on 20-year milestone of 9/11 after many believed he died months ago - Fox News",
+      "description": "Al-Qaeda leader Ayman al-Zawahiri appeared ​in a video released Saturday — the 20th anniversary of the 9/11 attacks — raising questions over his rumored death.",
+      "url": "https://www.https://nypost.com/2021/09/12/al-qaeda-leader-ayman-al-zawahiri-seen-in-video-after-death-rumors/",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Al-Qaeda-leader.jpg",
+      "publishedAt": "2021-09-13T00:59:42Z",
+      "content": "Al Qaeda leader Ayman al-Zawahiri appeared in a video commemorating the 20-year anniversary of the 9/11 terrorist attacks despite rumors that he died months earlier.\r\nThe SITE Intelligence Group, a U… [+1776 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NPR" },
+      "author": null,
+      "title": "North Korea Says It Test-Fired New Long-Range Missiles - NPR",
+      "description": "The country says it fired off its new weapons over the weekend, North Korea's first known testing activity in months, amid a stalemate in nuclear negotiations with the U.S.",
+      "url": "https://www.npr.org/2021/09/12/1036494952/north-korea-nuclear-test-long-range-missiles-kim-jong-un",
+      "urlToImage": "https://media.npr.org/assets/img/2021/09/12/ap21255850045407_wide-8cc5bd397fa6f489bca1b61d83830ec7553abb06.jpg?s=1400",
+      "publishedAt": "2021-09-13T00:51:37Z",
+      "content": "This combination of photos provided by the North Korean government on Monday shows long-range cruise missiles tests held on Sept. 11 and 12, in an undisclosed location of North Korea.\r\nKorean Central… [+4970 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Page Six" },
+      "author": "Leah Bitsky, Lindsey Kupfer, Mara Siegler",
+      "title": "Conor McGregor and Machine Gun Kelly get into fight on VMAs red carpet - Page Six",
+      "description": "A spy told Page Six that McGregor and Machine Gun Kelly “got into a fight at the top of the carpet” and “had to be pulled apart.",
+      "url": "https://pagesix.com/2021/09/12/conor-mcgregor-and-machine-gun-kelly-get-into-fight-on-vmas-red-carpet/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2021/09/mcgregor-mgk.jpg?quality=90&strip=all&w=1200",
+      "publishedAt": "2021-09-13T00:51:00Z",
+      "content": "At least no one threw a shoe. \r\nConor McGregor and Machine Gun Kelly had to be separated after getting into an altercation on the VMAs red carpet at Brooklyns Barclays Center on Sunday night, Page Si… [+2092 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Investing.com" },
+      "author": "Reuters",
+      "title": "Asia makes watchful start, Nikkei nears 30-year high By Reuters - Investing.com",
+      "description": "Asia shares step back, Nikkei hesitates near 30-year high",
+      "url": "https://www.investing.com/news/stock-market-news/asia-makes-watchful-start-nikkei-nears-30year-high-2613937",
+      "urlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEC0L0PD_L.jpg",
+      "publishedAt": "2021-09-13T00:41:00Z",
+      "content": "By Wayne Cole\r\nSYDNEY (Reuters) - Asian shares made a sluggish start on Monday to a week packed with major U.S. and Chinese economic data and the launch of Apple (NASDAQ:AAPL)'s latest iPhones, while… [+3453 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Associated Press",
+      "title": "Taliban: Women can study in gender-segregated universities - Fox News",
+      "description": "Women in Afghanistan can continue to study in universities, including at post-graduate levels, but classrooms will be gender-segregated and Islamic dress is compulsory, the Taliban government's new higher education minister said Sunday.",
+      "url": "https://www.foxnews.com/world/taliban-women-study-gender-segregated-universities",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Afghanistan-Women.png",
+      "publishedAt": "2021-09-13T00:27:42Z",
+      "content": "Women in Afghanistan can continue to study in universities, including at post-graduate levels, but classrooms will be gender-segregated and Islamic dress is compulsory, the Taliban government's new h… [+6048 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "John Simpson: Afghanistan, its future, and why China matters - BBC News",
+      "description": "John Simpson reports from the Torkham border where Taliban and Pakistani guards stand face to face.",
+      "url": "https://www.bbc.com/news/world-south-asia-58532291",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16D2/production/_120524850_torkhamborder-talibanandpakistanborderguards.jpg",
+      "publishedAt": "2021-09-13T00:09:22Z",
+      "content": "John SimpsonWorld affairs editor@JohnSimpsonNewson Twitter\r\nimage captionFace off: Taliban fighters and Pakistani soldiers guard the busy Torkham border crossing side by side\r\nThe Khyber Pass is one … [+5158 chars]"
+    }
+  ]
+}
